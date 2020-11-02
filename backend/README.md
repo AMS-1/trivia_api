@@ -174,18 +174,18 @@ Fetches a dictionary of questions for the specified category
   "current_category": 1, 
   "questions": [
     {
-      "answer": "The Liver", 
-      "category": 1, 
+      "answer": "Tom Cruise", 
+      "category": 5, 
       "difficulty": 4, 
-      "id": 20, 
-      "question": "What is the heaviest organ in the human body?"
+      "id": 4, 
+      "question": "What actor did author Anne Rice first denounce, then praise in the role of her beloved Lestat?"
     }, 
     {
-      "answer": "Alexander Fleming", 
-      "category": 1, 
-      "difficulty": 3, 
-      "id": 21, 
-      "question": "Who discovered penicillin?"
+      "answer": "Uruguay", 
+      "category": 6, 
+      "difficulty": 4, 
+      "id": 11, 
+      "question": "Which country won the first ever soccer World Cup in 1930"
     }, 
   ], 
   "success": true, 
